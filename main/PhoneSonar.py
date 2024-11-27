@@ -24,7 +24,7 @@ print("""
 #####################################################################################################################################
 """)
 
-print("Phone Scan is a simple tool that allows you to scan Mobile phone numbers\n"
+print("Phone Sonar is a simple tool that allows you to scan Mobile phone numbers\n"
 "and display the telephone operators associated with the number\n")
 
 print("-----------------------------------------")

@@ -1,5 +1,7 @@
 # Phone Sonar
 
+![sonar-svgrepo-com](https://github.com/user-attachments/assets/8cfc2a44-67d5-4ff8-a818-95f097030d62)
+
 Phone Sonar is a simple tool that allows you to scan mobile phone numbers and display the provider tied to the number, can
 be usefull to identify some spam call
 

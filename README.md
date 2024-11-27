@@ -7,6 +7,7 @@ this software support over 13 language.
 
 ```
 -----------------------------------------
+
 - China(+86)
 - United KingDom(+44)
 - France(+33)
@@ -24,7 +25,7 @@ this software support over 13 language.
 
 # Example usage (Korea)
 
-![example2]()
+![example](https://github.com/user-attachments/assets/e5c5d035-0dd6-4e66-8ed7-e716e7c49b31)
 
 
 

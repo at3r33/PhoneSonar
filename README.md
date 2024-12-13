@@ -41,7 +41,7 @@ before running you need to install the requirements (python modules) and also Py
 
 #  Installing & Executing
 
-`git clone https://github.com/L3xiuS/PhoneSonar.git`
+`git clone https://github.com/at3r33/PhoneSonar.git`
 
 `cd /main/PhoneSonar`
 
